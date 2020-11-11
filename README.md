@@ -1,6 +1,5 @@
 # micmute_pscript 
-by Success
-#
+
 * Powershell companion script to make the "MicMute" program originally by mistificat0r on sourceforge work properly since it seems to not be updated any longer
 
   * This script is a workaround to launch MicMute and kill it repeatedly a few times so that the program works as intended and the systray icon shows
@@ -17,6 +16,8 @@ by Success
 
 - To add this as an entry in Task Scheduler (to start on boot or login), put the program as `powershell.exe` and then add the line below as the argument
 `-ExecutionPolicy Bypass -Command " & 'C:\path\to\script\script.ps1'" -NoProfile -Noninteractive`
+
+#
 
 While you're here I do mods for the Arkham Games and stream when I am working on them among other stuff so check me out [ on Twitch](https://twitch.tv/successlive)
 
