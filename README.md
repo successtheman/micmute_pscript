@@ -21,6 +21,6 @@
 
 #
 
-While you're here I do mods for the Arkham Games and stream when I am working on them among other stuff so check me out [ on Twitch](https://twitch.tv/successlive)
+While you're here I do mods for the Arkham Games and stream when I am working on them among other stuff so check me out [ on Twitch](https://rebrand.ly/successtwitch)
 
 Hope this helps :D
