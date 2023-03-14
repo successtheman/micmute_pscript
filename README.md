@@ -1,3 +1,5 @@
+# No longer using this, I now use https://github.com/SaifAqqad/AHK_MicMute instead
+
 # micmute_pscript 
 
 * Powershell companion script to make the "MicMute" program originally by mistificat0r on sourceforge work properly since it seems to not be updated any longer
